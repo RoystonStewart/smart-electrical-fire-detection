@@ -30,5 +30,13 @@ Electrical fires are one of the major causes of property damage and safety hazar
 - Cloud-Based Monitoring
 - AI-Based Risk Prediction
 
+- ## Application Screenshots
+
+![Screenshot 1](Screenshot 2026-06-14 230010.png)
+
+![Screenshot 2](Screenshot 2026-06-14 230026.png)
+
+![Screenshot 3](Screenshot 2026-06-14 230040.png)
+
 ## Author
 Royston Stewart
